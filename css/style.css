@@ -66,12 +66,11 @@ body{
 }
 
 /* TABELLA */
-
+ 
 .table{
     font-size:2.4vh;
     margin: 0;
     padding-bottom: 2%;
-    border: 0;
 }
 .thead{
     color: white;
