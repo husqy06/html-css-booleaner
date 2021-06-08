@@ -30,7 +30,7 @@ body{
     font-size: 4.5vh;
     margin-bottom: 0;
 }
-.infoev{
+.grey{
     color: grey;
 }
  #scrda{
@@ -66,8 +66,7 @@ body{
 }
 
 /* TABELLA */
- 
-.table{
+ .table{
     font-size:2.4vh;
     margin: 0;
     padding-bottom: 2%;
@@ -84,9 +83,36 @@ body{
     width: 15vw;
     border:none;
 }
+/* FINE MAIN */
 
+/* INIZIO FOOTER */
+footer{
+    display: block;
+    padding-top: 1%;
+    color: white; 
+}
+#link1{
+    display: block;
+    padding-bottom: 4%;
+    background: url(../img/monitor.jpg) no-repeat;
+    height: 20vh;
+    width: 30vh;
+    text-decoration: none;
+    color: white;
+    font-size: 3vh;
+}
+#link2{
+    display: block;
+    padding-bottom: 2%;
+    background: url(../img/graph.jpg) no-repeat;
+    height: 20vh;
+    width: 30vh;
+    text-decoration: none;
+    color: white;
+    font-size: 3vh;
+}
+.atitle{
+    padding-left: 5%;
+}
 
-
-
-
-
+ 
