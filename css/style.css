@@ -39,7 +39,7 @@ body{
 }
 #scrda a{
     text-decoration: none;
-    color: #00ccff;
+    color: #05beec;
 }
 
 /* immagini e descrizione */
@@ -56,15 +56,35 @@ body{
     padding-top: 2%;
 }
 #list{
-    padding:2% 0 0 1.5%;
+    padding:2% 0 2% 2%;
 }
 .evidenziatore{
     background-color: yellow;
 }
+.paragraf{
+    font-size: 2.4vh;
+}
 
+/* TABELLA */
 
+.table{
+    font-size:2.4vh;
+    margin: 0;
+    padding-bottom: 2%;
+    border: 0;
+}
+.thead{
+    color: white;
+    background-color: #05beec;
+}
 
-
+.blu{
+    background-color: #AFEEEE;
+}
+.small{
+    width: 15vw;
+    border:none;
+}
 
 
 
