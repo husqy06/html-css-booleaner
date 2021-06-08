@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+     
+}
+ 
+.header{
+    height: 15vh;
+    width: 60vw;
+    margin: 0 auto;
+    background-color: rgba(7, 131, 255, 0.692) ;
+    background-image:url(pattern.png);
+}
+
+#logo{
+    width: 15vw;
+    padding:5vh 0 0 1vw;
+}
+ 
