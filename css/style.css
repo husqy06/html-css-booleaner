@@ -50,11 +50,17 @@ body{
     height:42vh;
 }
 
-
-
-
-
-
+/* PARAGRAFO E LISTA */
+.paralist{
+    font-size: 2.4vh;
+    padding-top: 2%;
+}
+#list{
+    padding:2% 0 0 1.5%;
+}
+.evidenziatore{
+    background-color: yellow;
+}
 
 
 
